@@ -1,5 +1,5 @@
 # Stacker-Game
-CS120B Custom Final Project
+CS120B Custom Final Project <br />
 Demo: https://www.youtube.com/watch?v=tK0Kse1C_dc
 
 ## Introduction
